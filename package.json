@@ -1,13 +1,13 @@
 {
   "name": "buffer-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "author": "",
   "private": false,
   "license": "UNLICENSED",
-  "main": "./lib/cjs/index.js",
-  "module": "./lib/esm/index.js",
-  "types": "./lib/esm/index.d.ts",
+  "main": "./lib/cjs/main.js",
+  "module": "./lib/esm/main.js",
+  "types": "./lib/esm/main.d.ts",
   "files": [
     "/lib"
   ],
